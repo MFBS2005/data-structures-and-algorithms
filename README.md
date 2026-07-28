@@ -37,7 +37,7 @@ the algorithms, their complexities, inversions, Shellsort increment sequences, a
 the Knuth–Fisher–Yates shuffle.
 
 ### Assignment 5 — Mergesort Variants (k-way merge)
-`Mergesort_Variants_Assignment5.ipynb`
+`Mergesort_Variants_Assignment5.py`
 
 A k-way merge sort: splitting the array into k parts instead of 2, sorting each
 recursively, and merging them. Includes my own complexity analysis
